@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>SlovAmo</title>
+    <link>https://github.com/yuriailyin-oss/general</link>
+    <description>SlovAmo release feed</description>
+    <language>en</language>
+    <!-- BUILD SCRIPT INSERTS NEW ITEMS HERE — do not remove this comment -->
+    <item>
+      <title>SlovAmo 1.2</title>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 05 Sep 2026 14:38:59 +0000</pubDate>
+      <enclosure
+        url="https://github.com/yuriailyin-oss/general/releases/download/v1.2/SlovAmo.dmg"
+        sparkle:edSignature="oKSEw1k3ld8uGlbaw3k0Hp9UrCgVUljOvJzmnfxG6n0094Mmwe85f2xNFopKwl9HWD9iis4pwG1CRTUuzxWMBw=="
+        length="2589868"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
