@@ -9,6 +9,18 @@
     <!-- BUILD SCRIPT INSERTS NEW ITEMS HERE — do not remove this comment -->
     <item>
       <title>SlovAmo 1.2</title>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 03 Nov 2026 13:42:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/yuriailyin-oss/general/releases/download/v1.2/SlovAmo.dmg"
+        sparkle:edSignature="QC01it0O5qkvxPDPV/tO8e/0rSP2CjyxhKki/di8OJEskV+tSZWKRLyBqOLPNTr8f6hk7mpH604g4Cnl68ZeBg=="
+        length="2627833"
+        type="application/octet-stream" />
+    </item>
+    <item>
+      <title>SlovAmo 1.2</title>
       <sparkle:version>47</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
